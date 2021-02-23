@@ -1,3 +1,3 @@
 # intro-to-node
 
-Mini projects to have a grasp on node.js and npm.
+Superheroes versus super-villains game using node.js and npm.
